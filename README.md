@@ -15,5 +15,7 @@ I solved this assignment by myself. I did not receive help or collaborate with o
 # Commit Rules
 Use .gitignore to stripe any binaries from the resulting build before commit.  If you cloned directly from the template, you are safe. 
 
+i used .gitignore
+
 # Due Time
 September 30th, 2025. 23: 59 WIB
